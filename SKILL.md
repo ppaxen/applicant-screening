@@ -120,6 +120,19 @@ unsupported), then summarize how severe the problem actually seems and how large
 the addressable market actually looks — not just what the applicant claims about
 severity/size, but your own read given the evidence presented.
 
+Early-stage applicants (pre-seed/idea-stage, which is most of this pipeline's
+audience) frequently don't cite any market data at all — not because the market
+doesn't exist, but because they haven't done that research yet. When the
+application itself gives no numbers or sources, don't just flag the gap and stop
+there: do independent research (web search) to check whether credible external
+sources support the claimed problem/market — industry reports, government
+statistics, news coverage of the same problem space, comparable companies. If you
+find real support, cite it in the summary (source + the figure/finding) so the
+committee gets an externally-grounded read even when the applicant didn't provide
+one themselves. If you search and still find nothing solid, say that explicitly —
+"couldn't find external validation for this claim" is itself useful signal,
+distinct from "the applicant didn't try."
+
 **② 솔루션 및 사업모델의 타당성 (solution & business model validity)**
 Assess whether the proposed solution logically follows from the problem described
 in ① — does it actually address the stated problem, or is there a gap between the
